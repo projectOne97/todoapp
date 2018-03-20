@@ -4,4 +4,4 @@
 
 - [ ] Agregar el evento al checkbox para que tache el texto de la tarea seleccionada.
 
-Made with :hearthbeat: by [Laboratoria](http://www.laboratoria.la).
+Made with :heartbeat: by [Laboratoria](http://www.laboratoria.la).
